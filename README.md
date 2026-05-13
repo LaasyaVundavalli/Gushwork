@@ -1,4 +1,4 @@
-# ForgeFlow Industries — Industrial Landing Page (HTML/CSS/JS)
+ # Industrial Landing Page (HTML/CSS/JS)
 
 A complete responsive industrial/manufacturing landing page for a **Premium HDPE Pipes / Industrial Infrastructure / Manufacturing Company** theme.
 
